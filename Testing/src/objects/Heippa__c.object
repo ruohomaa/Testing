@@ -53,7 +53,7 @@
     <enableReports>false</enableReports>
     <fields>
         <fullName>Brand__c</fullName>
-        <description>This is the brand name</description>
+        <description>This is the brand name, testing jenkins</description>
         <externalId>false</externalId>
         <label>Brand</label>
         <length>20</length>
