@@ -2031,6 +2031,141 @@
         <field>Task.WhoId</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Asset-Asset Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Auto__c-Heippa Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Campaign-Campaign Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CampaignMember-Campaign Member Page Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Car__c-Car Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-Case Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CaseClose-Close Case Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CaseInteraction-Tapaus-syötteen asettelu</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contact-Contact Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ContentVersion-Yleistä</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contract-Contract Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Event-Event Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Global-Global Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Heippa__c-Heippa Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Idea-Idea Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Invoice__c-Invoice Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Lead-Lead Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Line_Item__c-Line Item Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Merchandise__c-Merchandise Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Milestone1_Expense__c-Project Expense Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Milestone1_Log__c-Project Log Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Milestone1_Milestone__c-Project Milestone Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Milestone1_Project__c-Project Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Milestone1_Task__c-Project Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Milestone1_Time__c-Project Time Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>OpportunityLineItem-Opportunity Product Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Pricebook2-Price Book Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Product2-Product Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Project_Snapshot__c-Project Snapshot Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SocialPersona-Social Persona Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SocialPost-Social Post Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Solution-Solution Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Task-Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>User-User Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkCoaching-Coaching Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkFeedback-Feedback Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkFeedbackQuestion-Feedback Question Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkFeedbackQuestionSet-Feedback Question Set Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkFeedbackRequest-Feedback Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkGoal-Goal Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkGoalCollaborator-Goal Collaborator Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkGoalLink-Goal Link Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WorkPerformanceCycle-Performance Cycle Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -2432,10 +2567,6 @@
     <tabVisibilities>
         <tab>standard-Product2</tab>
         <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-SocialPersona</tab>
-        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Solution</tab>

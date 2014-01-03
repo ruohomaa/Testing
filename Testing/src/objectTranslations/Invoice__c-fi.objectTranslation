@@ -37,6 +37,13 @@
             <translation><!-- Pending --></translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Invoice Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <webLinks>
         <label><!-- Renumber --></label>
         <name>Renumber</name>

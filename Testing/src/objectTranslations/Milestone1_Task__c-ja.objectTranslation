@@ -219,6 +219,25 @@
         <label>総時間</label>
         <name>Total_Hours__c</name>
     </fields>
+    <layouts>
+        <layout>Project Task Layout</layout>
+        <sections>
+            <label>ブロック</label>
+            <section>Blocked</section>
+        </sections>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>推定</label>
+            <section>Estimates</section>
+        </sections>
+        <sections>
+            <label>マトリックス：時間と費用</label>
+            <section>Metrics: Hours &amp; Expenses</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Project Task Name --></nameFieldLabel>
     <validationRules>
         <errorMessage>完了済みタスクをブロックすべきではありません。</errorMessage>

@@ -39,6 +39,13 @@
         <name>Project_Task__c</name>
         <relationshipLabel><!-- Times --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Project Time Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <startsWith>Consonant</startsWith>
     <validationRules>
         <errorMessage><!-- The hours entered cannot be negative. --></errorMessage>
