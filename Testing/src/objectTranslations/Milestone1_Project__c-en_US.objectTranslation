@@ -170,37 +170,6 @@
         <label><!-- Total Open Task Count --></label>
         <name>Total_Open_Task_Count__c</name>
     </fields>
-    <layouts>
-        <layout>Project Layout</layout>
-        <sections>
-            <label><!-- Budgets --></label>
-            <section>Budgets</section>
-        </sections>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label><!-- Description --></label>
-            <section>Description</section>
-        </sections>
-        <sections>
-            <label><!-- Metrics: Hours &amp; Expenses (Calculated) --></label>
-            <section>Metrics: Hours &amp; Expenses (Calculated)</section>
-        </sections>
-        <sections>
-            <label><!-- Metrics: Milestone Information (Calculated) --></label>
-            <section>Metrics: Milestone Information (Calculated)</section>
-        </sections>
-        <sections>
-            <label><!-- Project Milestones Gantt View --></label>
-            <section>Project Milestones Gantt View</section>
-        </sections>
-        <sections>
-            <label><!-- Status at a Glance --></label>
-            <section>Status at a Glance</section>
-        </sections>
-    </layouts>
     <startsWith>Consonant</startsWith>
     <validationRules>
         <errorMessage><!-- Kickoff must be less or equal than the deadline --></errorMessage>
