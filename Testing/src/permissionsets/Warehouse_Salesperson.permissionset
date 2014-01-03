@@ -436,6 +436,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Auto__c.Brand2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Auto__c.Brand3__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Campaign.ActualCost</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -937,6 +947,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Event.WhoId</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Heippa__c.Brand__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
