@@ -34,13 +34,6 @@
         <label><!-- Unit Price --></label>
         <name>Unit_Price__c</name>
     </fields>
-    <layouts>
-        <layout>Line Item Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <validationRules>
         <errorMessage><!-- You can’t order more items than are in stock --></errorMessage>
         <name>Validate_Quantity</name>

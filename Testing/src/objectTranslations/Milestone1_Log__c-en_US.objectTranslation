@@ -65,20 +65,5 @@
             <translation><!-- Risk --></translation>
         </picklistValues>
     </fields>
-    <layouts>
-        <layout>Project Log Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label><!-- Detail Information --></label>
-            <section>Detail Information</section>
-        </sections>
-        <sections>
-            <label><!-- Related Records --></label>
-            <section>Related Records</section>
-        </sections>
-    </layouts>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

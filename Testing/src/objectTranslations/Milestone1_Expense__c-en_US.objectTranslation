@@ -35,12 +35,5 @@
         <name>Project_Task__c</name>
         <relationshipLabel><!-- Expenses --></relationshipLabel>
     </fields>
-    <layouts>
-        <layout>Project Expense Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
