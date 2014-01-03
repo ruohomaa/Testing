@@ -297,9 +297,5 @@
         <members>*</members>
         <name>UserMembershipSharingRule</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>Settings</name>
-    </types>
     <version>29.0</version>
 </Package>
