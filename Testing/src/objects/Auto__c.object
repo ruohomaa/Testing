@@ -62,6 +62,17 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Brand3__c</fullName>
+        <description>This is the brand name, testing jenkins, heippa</description>
+        <externalId>false</externalId>
+        <label>Brand</label>
+        <length>20</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Heippa</label>
     <nameField>
         <label>Custom Object Label Name</label>
