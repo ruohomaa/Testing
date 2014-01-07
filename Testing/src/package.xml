@@ -138,8 +138,10 @@
     </types>
     <types>
         <members>Milestones_PM_Dashboards</members>
+        <members>Milestones_PM_Dashboards/Milestones_PM_Individual_Dashboard</members>
         <members>Milestones_PM_Dashboards/Milestones_PM_Individual_Dashboard
 		</members>
+        <members>Milestones_PM_Dashboards/Milestones_PM_Project_Snapshots</members>
         <members>Milestones_PM_Dashboards/Milestones_PM_Project_Snapshots
 		</members>
         <name>Dashboard</name>
@@ -156,10 +158,13 @@
     <types>
         <members>unfiled$public</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE
 		</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE
 		</members>
+        <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE
 		</members>
         <members>unfiled$public/SalesNewCustomerEmail</members>
@@ -169,6 +174,7 @@
         <members>unfiled$public/SupportCaseResponse</members>
         <members>unfiled$public/SupportEscalatedCaseNotification</members>
         <members>unfiled$public/SupportEscalatedCaseReassignment</members>
+        <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
         <members>unfiled$public/SupportSelfServiceNewLoginandPassword
 		</members>
         <members>unfiled$public/SupportSelfServiceResetPassword</members>
@@ -193,6 +199,10 @@
     <types>
         <members>*</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Layout</name>
     </types>
     <types>
         <members>*</members>
@@ -240,44 +250,61 @@
     </types>
     <types>
         <members>Milestone_Project_Management</members>
+        <members>Milestone_Project_Management/Active_Projects_Open_Milestones</members>
         <members>Milestone_Project_Management/Active_Projects_Open_Milestones
 		</members>
         <members>Milestone_Project_Management/Blocked_Task_Report</members>
+        <members>Milestone_Project_Management/Blocked_Tasks_by_Project</members>
         <members>Milestone_Project_Management/Blocked_Tasks_by_Project
 		</members>
+        <members>Milestone_Project_Management/Milestone_Task_Expenses_Summary</members>
         <members>Milestone_Project_Management/Milestone_Task_Expenses_Summary
 		</members>
+        <members>Milestone_Project_Management/Milestone_Times_Summary</members>
         <members>Milestone_Project_Management/Milestone_Times_Summary
 		</members>
+        <members>Milestone_Project_Management/Milestones_and_Open_Tasks_by_Proj_LPM1</members>
         <members>Milestone_Project_Management/Milestones_and_Open_Tasks_by_Proj_LPM1
 		</members>
         <members>Milestone_Project_Management/My_Blocked_Tasks_DB</members>
+        <members>Milestone_Project_Management/My_Incomplete_Tasks_By_Priority</members>
         <members>Milestone_Project_Management/My_Incomplete_Tasks_By_Priority
 		</members>
+        <members>Milestone_Project_Management/My_Incomplete_Tasks_By_Project</members>
         <members>Milestone_Project_Management/My_Incomplete_Tasks_By_Project
 		</members>
         <members>Milestone_Project_Management/My_Late_Tasks_DB</members>
+        <members>Milestone_Project_Management/My_Project_Hours_Week_DB</members>
         <members>Milestone_Project_Management/My_Project_Hours_Week_DB
 		</members>
         <members>Milestone_Project_Management/My_Project_Tasks</members>
+        <members>Milestone_Project_Management/Open_Tasks_By_Project_LPM1</members>
         <members>Milestone_Project_Management/Open_Tasks_By_Project_LPM1
 		</members>
+        <members>Milestone_Project_Management/Overdue_Tasks_by_Project</members>
         <members>Milestone_Project_Management/Overdue_Tasks_by_Project
 		</members>
         <members>Milestone_Project_Management/Project_Snapshot</members>
         <members>Milestone_Project_Management/Project_Snapshot_List</members>
+        <members>Milestone_Project_Management/Project_Tasks_By_Assignee</members>
         <members>Milestone_Project_Management/Project_Tasks_By_Assignee
 		</members>
+        <members>Milestone_Project_Management/Snapshot_Matrix_Open_Tasks_by_Day</members>
         <members>Milestone_Project_Management/Snapshot_Matrix_Open_Tasks_by_Day
 		</members>
+        <members>Milestone_Project_Management/Snapshot_Project_Date_Open_Tasks_DB</members>
         <members>Milestone_Project_Management/Snapshot_Project_Date_Open_Tasks_DB
 		</members>
+        <members>Milestone_Project_Management/Snapshots_Active_Project_Count_DB</members>
         <members>Milestone_Project_Management/Snapshots_Active_Project_Count_DB
 		</members>
+        <members>Milestone_Project_Management/Snapshots_Total_Estimated_Task_Hours</members>
         <members>Milestone_Project_Management/Snapshots_Total_Estimated_Task_Hours
 		</members>
+        <members>Milestone_Project_Management/Summary_My_Blocked_Tasks_LPM1</members>
         <members>Milestone_Project_Management/Summary_My_Blocked_Tasks_LPM1
 		</members>
+        <members>Milestone_Project_Management/Summary_My_Late_Tasks_LPM1</members>
         <members>Milestone_Project_Management/Summary_My_Late_Tasks_LPM1
 		</members>
         <members>Milestone_Project_Management/Tasks_By_Project_LPM1</members>
@@ -314,6 +341,14 @@
     <types>
         <members>*</members>
         <name>UserMembershipSharingRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Settings</name>
     </types>
     <version>29.0</version>
 </Package>

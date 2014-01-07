@@ -246,6 +246,41 @@
         <label>総進行中タスク</label>
         <name>Total_Open_Tasks__c</name>
     </fields>
+    <layouts>
+        <layout>Project Milestone Layout</layout>
+        <sections>
+            <label>予算</label>
+            <section>Budget</section>
+        </sections>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>費用情報</label>
+            <section>Expense Information (Calculated)</section>
+        </sections>
+        <sections>
+            <label>時間情報</label>
+            <section>Hours Information (Calculated)</section>
+        </sections>
+        <sections>
+            <label>プロジェクトタスクガントチャート</label>
+            <section>Project Tasks Gantt View</section>
+        </sections>
+        <sections>
+            <label>状態のサマリー</label>
+            <section>Status Summary</section>
+        </sections>
+        <sections>
+            <label>サマリーマトリックス</label>
+            <section>Summary Metrics (Calculated)</section>
+        </sections>
+        <sections>
+            <label>タスク情報</label>
+            <section>Task Information (Calculated)</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Project Milestone Name --></nameFieldLabel>
     <validationRules>
         <errorMessage>マイルストーンエイリアスは空白スペースを含めません。</errorMessage>
