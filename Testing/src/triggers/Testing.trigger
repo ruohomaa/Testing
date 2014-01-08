@@ -5,6 +5,6 @@
 */
 
 trigger Testing on warehousedemo__Merchandise__c bulk (after update) {
-
+//
 
 }
